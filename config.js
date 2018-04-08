@@ -1,9 +1,9 @@
 //place the URL of the showdown server you are aiming to connect to
-exports.url = 'play.pokemonshowdown.com';
+exports.url = 'orderofphoenix.psim.us';
 
 // The nick and password to log in with
-var nick = exports.nick = ''
-exports.pass = '';
+var nick = exports.nick = 'Amphezium'
+exports.pass = 'mayurdazerapium';
 
 // A list of private rooms that the bot will not leak through the seen command
 exports.privaterooms = [];
